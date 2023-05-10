@@ -1,2 +1,2 @@
 # weatherproject
- makling a weather app
+ making a weather app
